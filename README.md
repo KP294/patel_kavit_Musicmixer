@@ -1,4 +1,4 @@
-![kp_logo](images/kp_logo_readme.svg)
+![kp_logo](images/Logo.svg)
 
 Music Mixer Project
 
