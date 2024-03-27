@@ -41,6 +41,6 @@ This project is licensed under the kp Music Mixer License
 Acknowledgments
 
 
-    Tron
-    CyberPunk 2077
+    Tyle
+    CyberPrank 2075
     Minimalism
